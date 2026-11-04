@@ -1,0 +1,18 @@
+# Large dataset files
+*.hdf5
+*.h5
+
+# Generated model and feature files
+*.npy
+*.pt
+*.pth
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
